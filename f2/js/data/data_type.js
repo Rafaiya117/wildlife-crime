@@ -144,4 +144,4 @@ other_details : {
 }
 
 
-}
+};
