@@ -2,12 +2,12 @@ var user_input = {
 
   species : [
       {
-          
           "quantity": "188",
           "dimension": "26",
           "live/dead": "Dead",
           "species_age": "Adult",
-          "species": "male"
+          "species": "male",
+          "CHANGE" : '1'
       },
       
         {
