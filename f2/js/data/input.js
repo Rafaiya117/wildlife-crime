@@ -141,6 +141,4 @@ var user_input = {
     "add_more_no": "No",
     "reseason": "others" 
   }
-  
-  
   };

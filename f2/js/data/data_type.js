@@ -79,7 +79,7 @@ offender:[{
   "note": "Qui qui duis volupta" /**text */
 }
 ],
-witness : [{
+witness: [{
   "witness_name": "Lionel Farrell", /**string->varchar (256) */
   "approx_0": false, /**boolean */
   "witness_address": "Dolore natus facere ", /**string->varchar (256) */
